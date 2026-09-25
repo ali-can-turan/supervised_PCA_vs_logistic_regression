@@ -7,6 +7,8 @@
 
 This project performs dimensionality reduction using **Principal Component Analysis (PCA)** on the **Breast Cancer Wisconsin** dataset and compares two modeling approaches: a Manual Linear Probability Model + Sigmoid vs. Scikit-Learn Logistic Regression.
 
+
+> See the full project [here](breast_cancer.pdf) or [here](breast_cancer.ipynb)
 ---
 
 ## 📌 Methodology
